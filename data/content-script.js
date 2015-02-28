@@ -8,7 +8,9 @@
     '.ProfileNav-item--followers',
     '#discover-stories',
     '.WhoToFollow',
-    '.Trends'
+    '.Trends',
+    '.topics',
+    '#global-nav-search'
   ];
 
   var STYLESHEET_TEXT = [
