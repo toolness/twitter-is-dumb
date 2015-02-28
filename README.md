@@ -5,7 +5,7 @@
 >
 > -- [Scott Aaronson][sa]
 
-This is a simple [Firefox add-on][xpi] that makes Twitter a less hostile place
+This is a simple [Firefox add-on][xpi] that makes Twitter a less toxic place
 by erasing most of it.
 
   [sa]: http://www.scottaaronson.com/blog/?p=2221
