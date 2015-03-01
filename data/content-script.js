@@ -10,7 +10,13 @@
     '.WhoToFollow',
     '.Trends',
     '.topics',
-    '#global-nav-search'
+    '#global-nav-search',
+    // Mobile
+    '.view-tweets .timeline',
+    '.navItem[nav="people-button"]',
+    '.navItem[nav="search"]',
+    '.navItem[tab="discover"]',
+    '.profile-counts'
   ];
 
   var STYLESHEET_TEXT = [
