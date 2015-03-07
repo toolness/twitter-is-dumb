@@ -16,7 +16,11 @@
     '.navItem[nav="people-button"]',
     '.navItem[nav="search"]',
     '.navItem[tab="discover"]',
-    '.profile-counts'
+    '.profile-counts',
+    // Facebook
+    '#newsFeedHeading ~ div',
+    'body.home #leftCol',
+    '#rightCol'
   ];
 
   var STYLESHEET_TEXT = [
